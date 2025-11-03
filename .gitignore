@@ -1,0 +1,12 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS / editors / envs
+.DS_Store
+.vscode/
+.idea/
+.env
+.venv/
