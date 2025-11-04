@@ -1,0 +1,111 @@
+M,Name,Type,Constellation,RA_deg,Dec_deg,Magnitude
+1,NGC 1952 Crab Nebula,Supernova Remnant,Taurus,83.625,22.016666666666666,8.4
+2,NGC 7089  ,Globular Cluster,Aquarius,323.375,-0.8166666666666667,6.5
+3,NGC 5272  ,Globular Cluster,Canes Venatici,205.55,28.383333333333333,6.2
+4,NGC 6121  ,Globular Cluster,Scorpius,245.9,-26.533333333333335,5.6
+5,NGC 5904  ,Globular Cluster,Serpens Caput,229.65,2.0833333333333335,5.6
+6,NGC 6405 Butterfly Cluster,Open Cluster,Scorpius,265.025,-32.21666666666667,5.3
+7,NGC 6475 Ptolemy¹s Cluster,Open Cluster,Scorpius,268.475,-34.81666666666667,4.1
+8,NGC 6523 Lagoon Nebula,Diffuse Nebula,Sagittarius,270.95,-24.383333333333333,6.0
+9,NGC 6333  ,Globular Cluster,Ophiucus,259.8,-18.516666666666666,7.7
+10,NGC 6254  ,Globular Cluster,Ophiucus,254.27500000000003,-4.1,6.6
+11,NGC 6705 Wild Duck Cluster,Open Cluster,Scutum,282.775,-6.266666666666667,6.3
+12,NGC 6218  ,Globular Cluster,Ophiucus,251.79999999999998,-1.95,6.7
+13,NGC 6205 Hercules Globular Cluster,Globular Cluster,Hercules,250.425,36.46666666666667,5.8
+14,NGC 6402  ,Globular Cluster,Ophiucus,264.4,-3.25,7.6
+15,NGC 7078  ,Globular Cluster,Pegasus,322.5,12.166666666666666,6.2
+16,NGC 6611 Eagle Nebula Cluster,Open Cluster,Serpens Claudia,274.7,-13.783333333333333,6.4
+17,"NGC 6618 Omega, Swan, Horseshoe Nebula",Diffuse Nebula,Sagittarius,275.2,-16.183333333333334,7.0
+18,NGC 6613  ,Open Cluster,Sagittarius,274.975,-17.133333333333333,7.5
+19,NGC 6273  ,Globular Cluster,Ophiucus,255.65,-26.266666666666666,6.8
+20,NGC 6514 Trifid Nebula,Diffuse Nebula,Sagittarius,270.575,-23.033333333333335,9.0
+21,NGC 6531  ,Open Cluster,Sagittarius,271.15000000000003,-22.5,6.5
+22,NGC 6656  ,Globular Cluster,Sagittarius,279.09999999999997,-23.9,5.1
+23,NGC 6494  ,Open Cluster,Sagittarius,269.2,-19.016666666666666,6.9
+24,NGC 6603 Milky Way Patch,Star Cloud,Sagittarius,274.59999999999997,-18.416666666666668,4.6
+25,IC 4725,Open Cluster,Sagittarius,277.925,-19.233333333333334,6.5
+26,NGC 6694  ,Open Cluster,Scutum,281.3,-9.4,8.0
+27,NGC 6853 Dumbbell Nebula,Planetary Nebula,Vulpecula,299.9,22.716666666666665,7.4
+28,NGC 6626  ,Globular Cluster,Sagittarius,276.125,-24.866666666666667,6.8
+29,NGC 6913  ,Open Cluster,Cygnus,305.975,38.53333333333333,7.1
+30,NGC 7099  ,Globular Cluster,Capricornus,325.09999999999997,-23.183333333333334,7.2
+31,NGC 224 Andromeda Galaxy,Spiral Galaxy,Andromeda,10.675,41.266666666666666,3.4
+32,NGC 221 Satellite of M31,Elliptical Galaxy,Andromeda,10.675,40.86666666666667,8.1
+33,NGC 598 Triangulum/Pinwheel Galaxy,Spiral Galaxy,Triangulum,23.474999999999998,30.65,5.7
+34,NGC 1039  ,Open Cluster,Perseus,40.5,42.78333333333333,5.5
+35,NGC 2168  ,Open Cluster,Gemini,92.225,24.333333333333332,5.3
+36,NGC 1960  ,Open Cluster,Auriga,84.025,34.13333333333333,6.3
+37,NGC 2099  ,Open Cluster,Auriga,88.1,32.55,6.2
+38,NGC 1912  ,Open Cluster,Auriga,82.175,35.833333333333336,7.4
+39,NGC 7092  ,Open Cluster,Cygnus,323.04999999999995,48.43333333333333,5.2
+40,Winecke 4,Double Star,Ursa Major,185.54999999999998,58.083333333333336,
+41,NGC 2287  ,Open Cluster,Canis Major,101.75,-20.733333333333334,4.6
+42,NGC 1976 Great Orion Nebula,Diffuse Nebula,Orion,83.85,-5.45,4.0
+43,NGC 1982 de Mairan¹s Nebula,Diffuse Nebula,Orion,83.9,-5.266666666666667,9.0
+44,NGC 2632 Beehive Cluster (Praesepe),Open Cluster,Cancer,130.025,19.983333333333334,3.7
+45,"Pleiades, Subaru, Seven Sisters",Open Cluster,Taurus,56.75,24.12,1.6
+46,NGC 2437  ,Open Cluster,Puppis,115.44999999999999,-14.816666666666666,6.0
+47,NGC 2422  ,Open Cluster,Puppis,114.15,-14.5,5.2
+48,NGC 2548  ,Open Cluster,Hydra,123.45,-5.8,5.5
+49,NGC 4472  ,Elliptical Galaxy,Virgo,187.45,8.0,8.4
+50,NGC 2323  ,Open Cluster,Monocerus,105.80000000000001,-8.333333333333334,6.3
+51,NGC 5194 Whirlpool Galaxy,Spiral Galaxy,Canes Venatici,202.475,47.2,8.4
+52,NGC 7654  ,Open Cluster,Cassiopeia,351.05,61.583333333333336,7.3
+53,NGC 5024  ,Globular Cluster,Coma Berenices,198.225,18.166666666666668,7.6
+54,NGC 6715  ,Globular Cluster,Sagittarius,283.775,-30.483333333333334,7.6
+55,NGC 6809  ,Globular Cluster,Sagittarius,295.0,-30.966666666666665,6.3
+56,NGC 6779  ,Globular Cluster,Lyra,289.15000000000003,30.183333333333334,8.3
+57,NGC 6720 Ring Nebula,Planetary Nebula,Lyra,283.40000000000003,33.03333333333333,8.8
+58,NGC 4579  ,Spiral Galaxy,Virgo,189.425,11.816666666666666,9.7
+59,NGC 4621  ,Elliptical Galaxy,Virgo,190.5,11.65,9.6
+60,NGC 4649  ,Elliptical Galaxy,Virgo,190.925,11.55,8.8
+61,NGC 4303  ,Spiral Galaxy,Virgo,185.475,4.466666666666667,9.7
+62,NGC 6266  ,Globular Cluster,Ophiucus,255.29999999999998,-30.116666666666667,6.5
+63,NGC 5055 Sunflower Galaxy,Spiral Galaxy,Canes Venatici,198.95000000000002,42.03333333333333,8.6
+64,NGC 4826 Blackeye Galaxy,Spiral Galaxy,Coma Berenices,194.175,21.683333333333334,8.5
+65,NGC 3623  ,Spiral Galaxy,Leo,169.725,13.083333333333334,9.3
+66,NGC 3627  ,Spiral Galaxy,Leo,170.04999999999998,12.983333333333333,8.9
+67,NGC 2682  ,Open Cluster,Cancer,132.6,11.816666666666666,6.1
+68,NGC 4590  ,Globular Cluster,Hydra,189.875,-26.75,7.8
+69,NGC 6637  ,Globular Cluster,Sagittarius,277.85,-32.35,7.6
+70,NGC 6681  ,Globular Cluster,Sagittarius,280.79999999999995,-32.3,7.9
+71,NGC 6838  ,Globular Cluster,Sagitta,298.45000000000005,18.783333333333335,8.3
+72,NGC 6981,Globular Cluster,Aquarius,313.375,-12.533333333333333,9.3
+73,NGC 6994  Group of 4 stars,Group/Asterism,Aquarius,314.75,-12.633333333333333,9.0
+74,NGC 628 ,Spiral Galaxy,Pisces,24.175,15.783333333333333,9.4
+75,NGC 6864  ,Globular Cluster,Sagittarius,301.525,-21.916666666666668,8.5
+76,"NGC 650 Little Dumbell, Cork, Butterfly Nebula",Planetary Nebula,Perseus,25.575000000000003,51.56666666666667,10.1
+77,NGC 1068 Cetus A,Spiral Galaxy,Cetus,40.675000000000004,0.016666666666666666,8.9
+78,NGC 2068  ,Diffuse Nebula,Orion,86.675,0.05,8.3
+79,NGC 1904  ,Globular Cluster,Lepus,81.125,-24.55,7.7
+80,NGC 6093  ,Globular Cluster,Scorpius,244.25000000000003,-22.983333333333334,7.3
+81,NGC 3031 Bode¹s Galaxy,Spiral Galaxy,Ursa Major,148.89999999999998,69.06666666666666,6.9
+82,NGC 3034 Cigar Galaxy,Irregular Galaxy,Ursa Major,148.95,69.68333333333334,8.4
+83,NGC 5236 Southern Pinwheel Galaxy,Spiral Galaxy,Hydra,204.25,-29.866666666666667,7.6
+84,NGC 4374  ,Lenticular (S0) Galaxy,Virgo,186.275,12.883333333333333,9.1
+85,NGC 4382  ,Lenticular (S0) Galaxy,Coma Berenices,186.35,18.183333333333334,9.1
+86,NGC 4406  ,Lenticular (S0) Galaxy,Virgo,186.55,12.95,8.9
+87,NGC 4486 Virgo A,Elliptical Galaxy,Virgo,187.70000000000002,12.4,8.6
+88,NGC 4501  ,Spiral Galaxy,Coma Berenices,188.0,14.416666666666666,9.6
+89,NGC 4552  ,Elliptical Galaxy,Virgo,188.925,12.55,9.8
+90,NGC 4569  ,Spiral Galaxy,Virgo,189.2,13.166666666666666,9.5
+91,NGC 4548  ,Spiral Galaxy,Coma Berenices,188.85,14.5,10.2
+92,NGC 6341  ,Globular Cluster,Hercules,259.275,43.13333333333333,6.4
+93,NGC 2447  ,Open Cluster,Puppis,116.14999999999999,-23.866666666666667,6.0
+94,NGC 4736  ,Spiral Galaxy,Canes Venatici,192.725,41.11666666666667,8.2
+95,NGC 3351  ,Spiral Galaxy,Leo,161.0,11.7,9.7
+96,NGC 3368  ,Spiral Galaxy,Leo,161.7,11.816666666666666,9.2
+97,NGC 3587 Owl Nebula,Planetary Nebula,Ursa Major,168.7,55.016666666666666,9.9
+98,NGC 4192  ,Spiral Galaxy,Coma Berenices,183.45000000000002,14.9,10.1
+99,NGC 4254  ,Spiral Galaxy,Coma Berenices,184.7,14.416666666666666,9.9
+100,NGC 4321  ,Spiral Galaxy,Coma Berenices,185.725,15.816666666666666,9.3
+101,NGC 5457 Pinwheel Galaxy,Spiral Galaxy,Ursa Major,210.79999999999998,54.35,7.9
+102,NGC 5866 Spindle Galaxy,Lenticular (S0) Galaxy,Draco,226.625,55.766666666666666,9.9
+103,NGC 581,Open Cluster,Cassiopeia,23.299999999999997,60.7,7.4
+104,NGC 4594 Sombrero Galaxy,Spiral Galaxy,Virgo,190.0,-11.616666666666667,8.0
+105,NGC 3379,Elliptical Galaxy,Leo,161.95,12.583333333333334,9.3
+106,NGC 4258,Spiral Galaxy,Canes Venatici,184.75,47.3,8.4
+107,NGC 6171,Globular Cluster,Ophiucus,248.12500000000003,-13.05,7.9
+108,NGC 3556,Spiral Galaxy,Ursa Major,167.875,55.666666666666664,10.0
+109,NGC 3992,Spiral Galaxy,Ursa Major,179.4,53.38333333333333,9.8
+110,NGC 205 Satellite of M31,Elliptical Galaxy,Andromeda,10.1,41.68333333333333,8.5
