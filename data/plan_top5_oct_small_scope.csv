@@ -1,0 +1,6 @@
+M,Name,TypeCat,Type,Constellation,Magnitude,RA_hms,Dec_dms,BestMonth,Season,AltMax_deg,MonthGap,Score
+31,NGC 224 Andromeda Galaxy,Galaxy,Spiral Galaxy,Andromeda,3.4,00:42:42.00,+41:16:00.0,Sep,Fall,88.73333333333333,0.355833333333333,0.8142836538461539
+45,"Pleiades, Subaru, Seven Sisters",Cluster,Open Cluster,Taurus,1.6,03:47:00.00,+24:07:12.0,Nov,Fall,74.12,1.8916666666666666,0.787200641025641
+34,NGC 1039  ,Cluster,Open Cluster,Perseus,5.5,02:42:00.00,+42:47:00.0,Oct,Fall,87.21666666666667,1.3499999999999996,0.6762628205128205
+39,NGC 7092  ,Cluster,Open Cluster,Cygnus,5.2,21:32:12.00,+48:26:00.0,Aug,Summer,81.56666666666666,1.2316666666666691,0.6637980769230768
+33,NGC 598 Triangulum/Pinwheel Galaxy,Galaxy,Spiral Galaxy,Triangulum,5.7,01:33:54.00,+30:39:00.0,Oct,Fall,80.65,0.7824999999999998,0.6450913461538461
