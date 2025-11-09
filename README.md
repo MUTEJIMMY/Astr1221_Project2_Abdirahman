@@ -45,6 +45,15 @@ All advanced pieces are built on top of the same cleaned Messier table.
 (Any other catalogs from early attempts are treated as archive/experiments and are not
 used in the final workflow.)
 
+## Dependencies
+
+- numpy
+- pandas
+- matplotlib
+- astropy
+- geopy
+- xlrd>=2.0.1
+
 ## How to Run
 
 1. Clone this repository:
